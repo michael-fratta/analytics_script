@@ -1,0 +1,1 @@
+worker: python analytics_script.py
